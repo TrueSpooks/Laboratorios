@@ -1,0 +1,5 @@
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Lab-04-José Andrés-1163926\Lab-04-José Andrés-1163926\obj\Debug\net10.0\Lab-04-José Andrés-1163926.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Lab-04-José Andrés-1163926\Lab-04-José Andrés-1163926\obj\Debug\net10.0\Lab-04-José Andrés-1163926.AssemblyInfoInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Lab-04-José Andrés-1163926\Lab-04-José Andrés-1163926\obj\Debug\net10.0\Lab-04-José Andrés-1163926.AssemblyInfo.cs
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Lab-04-José Andrés-1163926\Lab-04-José Andrés-1163926\obj\Debug\net10.0\Lab-04-José Andrés-1163926.csproj.CoreCompileInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Lab-04-José Andrés-1163926\Lab-04-José Andrés-1163926\obj\Debug\net10.0\Lab-04-José Andrés-1163926.sourcelink.json

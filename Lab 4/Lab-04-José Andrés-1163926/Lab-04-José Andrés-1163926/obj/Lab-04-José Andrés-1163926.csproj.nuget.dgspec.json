@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jagcg\\Downloads\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj": {}
+    "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jagcg\\Downloads\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj": {
+    "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jagcg\\Downloads\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj",
+        "projectUniqueName": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj",
         "projectName": "Lab-04-José Andrés-1163926",
-        "projectPath": "C:\\Users\\jagcg\\Downloads\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj",
+        "projectPath": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926.csproj",
         "packagesPath": "C:\\Users\\jagcg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jagcg\\Downloads\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\obj\\",
+        "outputPath": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-José Andrés-1163926\\Lab-04-José Andrés-1163926\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jagcg\\AppData\\Roaming\\NuGet\\NuGet.Config",

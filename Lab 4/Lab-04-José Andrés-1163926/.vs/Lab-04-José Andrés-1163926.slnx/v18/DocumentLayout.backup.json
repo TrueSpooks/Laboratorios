@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jagcg\\Downloads\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\",
+  "WorkspaceRootPath": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAC04D87-0DDC-47B1-A3A5-73C5300E9330}|Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926.csproj|c:\\users\\jagcg\\downloads\\lab-04-jos\u00E9 andr\u00E9s-1163926\\lab-04-jos\u00E9 andr\u00E9s-1163926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC04D87-0DDC-47B1-A3A5-73C5300E9330}|Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926.csproj|solutionrelative:lab-04-jos\u00E9 andr\u00E9s-1163926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90F0443F-387D-270C-B922-08CC7002A86B}|Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926.csproj|c:\\users\\jagcg\\onedrive\\documentos\\github\\laboratorios\\lab 4\\lab-04-jos\u00E9 andr\u00E9s-1163926\\lab-04-jos\u00E9 andr\u00E9s-1163926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F0443F-387D-270C-B922-08CC7002A86B}|Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926.csproj|solutionrelative:lab-04-jos\u00E9 andr\u00E9s-1163926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jagcg\\Downloads\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Program.cs",
               "RelativeDocumentMoniker": "Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Program.cs",
-              "ToolTip": "C:\\Users\\jagcg\\Downloads\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Program.cs",
+              "ToolTip": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 4\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Program.cs",
               "RelativeToolTip": "Lab-04-Jos\u00E9 Andr\u00E9s-1163926\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAwwF8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T14:55:06.764Z",
               "EditorCaption": ""
