@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 5\\Lab-05- Parte 3-Jose Andres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16027AB-CE32-487B-9851-A1E178170063}|Lab-05- Parte 3-Jose Andres\\Lab-05- Parte 3-Jose Andres.csproj|c:\\users\\jagcg\\onedrive\\documentos\\github\\laboratorios\\lab 5\\lab-05- parte 3-jose andres\\lab-05- parte 3-jose andres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16027AB-CE32-487B-9851-A1E178170063}|Lab-05- Parte 3-Jose Andres\\Lab-05- Parte 3-Jose Andres.csproj|solutionrelative:lab-05- parte 3-jose andres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 5\\Lab-05- Parte 3-Jose Andres\\Lab-05- Parte 3-Jose Andres\\Program.cs",
+              "RelativeDocumentMoniker": "Lab-05- Parte 3-Jose Andres\\Program.cs",
+              "ToolTip": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab 5\\Lab-05- Parte 3-Jose Andres\\Lab-05- Parte 3-Jose Andres\\Program.cs",
+              "RelativeToolTip": "Lab-05- Parte 3-Jose Andres\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:30:59.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jagcg\\source\\repos\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj": {}
+    "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jagcg\\source\\repos\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj": {
+    "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jagcg\\source\\repos\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj",
+        "projectUniqueName": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj",
         "projectName": "Lab03-A2-José García",
-        "projectPath": "C:\\Users\\jagcg\\source\\repos\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj",
+        "projectPath": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab03-A2-José García\\Lab03-A2-José García\\Lab03-A2-José García.csproj",
         "packagesPath": "C:\\Users\\jagcg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jagcg\\source\\repos\\Lab03-A2-José García\\Lab03-A2-José García\\obj\\",
+        "outputPath": "C:\\Users\\jagcg\\OneDrive\\Documentos\\GitHub\\Laboratorios\\Lab03-A2-José García\\Lab03-A2-José García\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jagcg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
