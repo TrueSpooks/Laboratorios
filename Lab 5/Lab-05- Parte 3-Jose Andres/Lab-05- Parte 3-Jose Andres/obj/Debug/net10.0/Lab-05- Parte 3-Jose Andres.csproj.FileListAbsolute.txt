@@ -1,0 +1,15 @@
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\bin\Debug\net10.0\Lab-05- Parte 3-Jose Andres.exe
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\bin\Debug\net10.0\Lab-05- Parte 3-Jose Andres.deps.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\bin\Debug\net10.0\Lab-05- Parte 3-Jose Andres.runtimeconfig.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\bin\Debug\net10.0\Lab-05- Parte 3-Jose Andres.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\bin\Debug\net10.0\Lab-05- Parte 3-Jose Andres.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.AssemblyInfoInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.AssemblyInfo.cs
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.csproj.CoreCompileInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.sourcelink.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\refint\Lab-05- Parte 3-Jose Andres.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\Lab-05- Parte 3-Jose Andres.genruntimeconfig.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 5\Lab-05- Parte 3-Jose Andres\Lab-05- Parte 3-Jose Andres\obj\Debug\net10.0\ref\Lab-05- Parte 3-Jose Andres.dll
