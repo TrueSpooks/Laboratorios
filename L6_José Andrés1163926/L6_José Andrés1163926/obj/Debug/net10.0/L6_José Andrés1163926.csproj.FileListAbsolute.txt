@@ -1,0 +1,15 @@
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.AssemblyInfoInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.AssemblyInfo.cs
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.csproj.CoreCompileInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.sourcelink.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\bin\Debug\net10.0\L6_José Andrés1163926.exe
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\bin\Debug\net10.0\L6_José Andrés1163926.deps.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\bin\Debug\net10.0\L6_José Andrés1163926.runtimeconfig.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\bin\Debug\net10.0\L6_José Andrés1163926.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\bin\Debug\net10.0\L6_José Andrés1163926.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\refint\L6_José Andrés1163926.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\L6_José Andrés1163926.genruntimeconfig.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 6\L6_José Andrés1163926\L6_José Andrés1163926\obj\Debug\net10.0\ref\L6_José Andrés1163926.dll
