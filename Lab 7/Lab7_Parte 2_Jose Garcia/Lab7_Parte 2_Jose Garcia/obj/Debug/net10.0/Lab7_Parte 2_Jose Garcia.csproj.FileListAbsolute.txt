@@ -1,0 +1,15 @@
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\bin\Debug\net10.0\Lab7_Parte 2_Jose Garcia.exe
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\bin\Debug\net10.0\Lab7_Parte 2_Jose Garcia.deps.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\bin\Debug\net10.0\Lab7_Parte 2_Jose Garcia.runtimeconfig.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\bin\Debug\net10.0\Lab7_Parte 2_Jose Garcia.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\bin\Debug\net10.0\Lab7_Parte 2_Jose Garcia.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.AssemblyInfoInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.AssemblyInfo.cs
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.csproj.CoreCompileInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.sourcelink.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\refint\Lab7_Parte 2_Jose Garcia.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\Lab7_Parte 2_Jose Garcia.genruntimeconfig.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 7\Lab7_Parte 2_Jose Garcia\Lab7_Parte 2_Jose Garcia\obj\Debug\net10.0\ref\Lab7_Parte 2_Jose Garcia.dll

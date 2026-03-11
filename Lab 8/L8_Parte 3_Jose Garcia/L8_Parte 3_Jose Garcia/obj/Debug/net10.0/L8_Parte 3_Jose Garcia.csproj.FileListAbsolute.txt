@@ -1,0 +1,15 @@
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\bin\Debug\net10.0\L8_Parte 3_Jose Garcia.exe
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\bin\Debug\net10.0\L8_Parte 3_Jose Garcia.deps.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\bin\Debug\net10.0\L8_Parte 3_Jose Garcia.runtimeconfig.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\bin\Debug\net10.0\L8_Parte 3_Jose Garcia.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\bin\Debug\net10.0\L8_Parte 3_Jose Garcia.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.AssemblyInfoInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.AssemblyInfo.cs
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.csproj.CoreCompileInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.sourcelink.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\refint\L8_Parte 3_Jose Garcia.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\L8_Parte 3_Jose Garcia.genruntimeconfig.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Lab 8\L8_Parte 3_Jose Garcia\L8_Parte 3_Jose Garcia\obj\Debug\net10.0\ref\L8_Parte 3_Jose Garcia.dll
