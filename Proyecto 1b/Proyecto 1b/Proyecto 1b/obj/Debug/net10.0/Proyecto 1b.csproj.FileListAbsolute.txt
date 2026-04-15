@@ -1,0 +1,15 @@
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\bin\Debug\net10.0\Proyecto 1b.exe
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\bin\Debug\net10.0\Proyecto 1b.deps.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\bin\Debug\net10.0\Proyecto 1b.runtimeconfig.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\bin\Debug\net10.0\Proyecto 1b.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\bin\Debug\net10.0\Proyecto 1b.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.AssemblyInfoInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.AssemblyInfo.cs
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.csproj.CoreCompileInputs.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.sourcelink.json
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\refint\Proyecto 1b.dll
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.pdb
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\Proyecto 1b.genruntimeconfig.cache
+C:\Users\jagcg\OneDrive\Documentos\GitHub\Laboratorios\Proyecto 1b\Proyecto 1b\Proyecto 1b\obj\Debug\net10.0\ref\Proyecto 1b.dll
